@@ -63,7 +63,7 @@ def check(text: str):
 st.header("OpenAI Text Classifier Demo")
 st.write(
 ''' This mini-app show you a demo of using [OpenAI Text Classifier](https://platform.openai.com/ai-text-classifier) client. 
-You can access the code on GitHub.
+You can access the code on [GitHub](https://github.com/renyilin/OpenAI-Text-Classifier-Client).
 ''')
 origin_text = st.text_area("**Enter your text here:** ", value=st.session_state.origin_text, key="original",
                             height=400, on_change=origin_text_on_change,

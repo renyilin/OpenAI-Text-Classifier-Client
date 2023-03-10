@@ -1,7 +1,7 @@
 OpenAPI Text Classifier Client
 =============================
 
-This is a Python client for the [OpenAI Text Classifier](https://platform.openai.com/ai-text-classifier). Here is a [live demo](https://renyilin-openai-text-classifier-client-app-d3jmqb.streamlit.app/).
+This is a Python client for the [OpenAI Text Classifier](https://platform.openai.com/ai-text-classifier). Here is a [live demo](https:://openai-text-classifier-client.streamlit.app/).
 
 Here's an example of how to use it:
 1. You can get an OpenAI API key [here](https://platform.openai.com/account/api-keys).
